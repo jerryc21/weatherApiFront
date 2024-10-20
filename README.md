@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with  React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To install dependencies, once you've cloned this repo and go into this project's directory, enter ***npm i*** in the command line <br>
+To start project enter ***npm start*** in the command line and go to http://localhost:3000/ to view application
 
 ## Available Scripts
 
