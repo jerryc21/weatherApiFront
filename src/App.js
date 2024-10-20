@@ -64,7 +64,6 @@ function App(){
         Get Weather
       </button>
 
-      {/* Display weather data underneath the input boxes */}
       {weatherData && (
         <div className="result">
           <h3>Weather Data:</h3>
@@ -72,7 +71,6 @@ function App(){
         </div>
       )}
 
-      {/* Display any errors */}
       {error && <p className="error">{JSON.stringify(error,null,2)}</p>}
     </div>
   );
